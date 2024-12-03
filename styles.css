@@ -1,1 +1,15 @@
-/*  your css code here. If applicable */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#sizeInfo{
+  padding: 10px;
+}
+
+h1{
+  font-size: 32px;
+}
